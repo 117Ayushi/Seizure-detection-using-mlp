@@ -1,2 +1,2 @@
-# Seizure detection using MLP or ANN
+# Seizure detection using Neural networks
 
